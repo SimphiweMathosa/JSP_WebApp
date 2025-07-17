@@ -133,8 +133,8 @@ This project is licensed under the **MIT License** – see [`LICENSE`](LICENSE) 
 
 ## 👥 Authors & Acknowledgements
 
-- **Project Lead:** *Your Name*
-- **Team:** *Member A*, *Member B*, *Member C*
+
+- **Team:** *Mamello Lelaka*, *Simphiwe Mathosa*, *Cameron Brighton*, *Dehan Barnard*
 - Special thanks to Belgium Campus lecturers for guidance and code review.
 
 ---
